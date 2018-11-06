@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="menu_action_about_us" />
+    <string name="menu_action_setting" />
+
+    <string-array name="android_dropdown_arrays">
+        <item>Choose team member</item>
+        <item>kavya 1794948</item>
+        <item>mahender 1794805</item>
+        <item>sirisha  </item>
+        <item>member 5</item>
+        <item>member 6</item>
+        <item>member 7</item>
+        <item>member 8</item>
+    </string-array>
+</resources>
